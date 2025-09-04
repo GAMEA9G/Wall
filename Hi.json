@@ -1,6 +1,16 @@
-{
-  "author": "Kaique Rocha",
-  "url": "https://private-user-images.githubusercontent.com/83494887/485496894-5aea4cdf-dcc4-46e4-892d-c8772155f56d.png",
-  "name": "Night City Street",
-  "thumbnail": "https://private-user-images.githubusercontent.com/83494887/485496894-5aea4cdf-dcc4-46e4-892d-c8772155f56d.png"
-}
+[
+  {
+    "name": "Night City Street",
+    "author": "Kaique Rocha",
+    "url": "https://private-user-images.githubusercontent.com/83494887/485496894-5aea4cdf-dcc4-46e4-892d-c8772155f56d.png",
+    "thumbnail": "https://private-user-images.githubusercontent.com/83494887/485496894-5aea4cdf-dcc4-46e4-892d-c8772155f56d.png",
+    "downloadable": true
+  },
+  {
+    "name": "Drops",
+    "author": "No One",
+    "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
+    "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb",
+    "downloadable": true
+  }
+]
