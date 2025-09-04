@@ -1,9 +1,10 @@
-[
-  {
-    "name": "Suro",
-    "author": "A9g",
-    "url": "https://raw.githubusercontent.com/GAMEA9G/Wall/refs/heads/main/IMG_20250902_224021.png",
-    "thumbnail": "https://raw.githubusercontent.com/GAMEA9G/Wall/refs/heads/main/IMG_20250902_224021.png",
-    "downloadable": true
-  }
-]
+{
+  "wallpapers": [
+    {
+      "name": "Suro",
+      "author": "A9g",
+      "url": "https://raw.githubusercontent.com/GAMEA9G/Wall/refs/heads/main/IMG_20250902_224021.png",
+      "thumbnail": "https://raw.githubusercontent.com/GAMEA9G/Wall/refs/heads/main/IMG_20250902_224021.png"
+    }
+  ]
+}
