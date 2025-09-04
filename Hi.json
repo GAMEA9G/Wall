@@ -1,16 +1,6 @@
 {
-  "wallpapers": {
-    "wallpaper1": {
-      "author": "Kaique Rocha",
-      "url": "https://private-user-images.githubusercontent.com/83494887/485496894-5aea4cdf-dcc4-46e4-892d-c8772155f56d.png",
-      "name": "Night City Street",
-      "thumbnail": "https://private-user-images.githubusercontent.com/83494887/485496894-5aea4cdf-dcc4-46e4-892d-c8772155f56d.png"
-    },
-    "wallpaper2": {
-      "author": "No One",
-      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
-      "name": "Drops",
-      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
-    }
-  }
+  "author": "Kaique Rocha",
+  "url": "https://private-user-images.githubusercontent.com/83494887/485496894-5aea4cdf-dcc4-46e4-892d-c8772155f56d.png",
+  "name": "Night City Street",
+  "thumbnail": "https://private-user-images.githubusercontent.com/83494887/485496894-5aea4cdf-dcc4-46e4-892d-c8772155f56d.png"
 }
